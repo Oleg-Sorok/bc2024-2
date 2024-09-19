@@ -1,2 +1,3 @@
 http://backend.course#Oleg-Sorok
 http://backend.course?name=%22%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%20%D0%9E%D0%BB%D0%B5%D0%B3%22&github_name=Oleg-Sorok&group=%22%D0%A4%D0%95%D0%86-25%D1%81%22&subgroup=%221%22
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220115&end=20220131&valcode=usd&sort=exchangedate&order=desc&json
